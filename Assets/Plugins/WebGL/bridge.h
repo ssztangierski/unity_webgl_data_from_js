@@ -1,0 +1,1 @@
+typedef void (*callback_message_received_from_js)(const char*);
